@@ -3,7 +3,7 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
+define e = Character("emo guy place holder")
 
 
 # The game starts here.
@@ -17,14 +17,15 @@ label start:
     # scene bg room
 
     # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
+    # replace it by adding a file named "emo guy place holder.png" to the images
     # directory.
 
     scene coin with fade
-    show eileen happy
+    show emo guy place holder
+    
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
+    e "im so sad and depressed"
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
 
