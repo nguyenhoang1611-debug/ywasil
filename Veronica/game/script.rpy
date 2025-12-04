@@ -20,8 +20,9 @@ label start:
     # replace it by adding a file named "emo guy place holder.png" to the images
     # directory.
 
-    scene coin with fade
+
     show emo guy place holder 
+    scene bg place holder bedroom
     
     # These display lines of dialogue.
 
