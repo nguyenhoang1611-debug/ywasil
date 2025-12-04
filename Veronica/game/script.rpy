@@ -25,13 +25,11 @@ label start:
     
     # These display lines of dialogue.
 
-    e "im so sad and depressed"
-
-    e "Once you add a story, pictures, and music, you can release it to the world!"
-
-    e "hello"
     
-    e "i hate you momma"
+
+    
+    
+    
 
     # This ends the game.
 
