@@ -25,7 +25,7 @@ label start:
     
     # These display lines of dialogue.
 
-    
+    e "i hate you momma"
 
     
     
