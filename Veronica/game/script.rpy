@@ -21,7 +21,7 @@ label start:
     # directory.
 
  
-    scene bg place holder bedroom
+    scene bg bedroom 
     show emo guy place holder
     
     # These display lines of dialogue.
