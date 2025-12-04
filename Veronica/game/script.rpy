@@ -11,7 +11,7 @@ define e = Character("emo guy place holder")
 label start:
 
     # Show a background. This uses a placeholder by default, but you can
-    # add a file (named either "bg room.png" or "bg room.jpg") to the
+    # add a file (named either "place holder bedroom.png" or "bg room.jpg") to the
     # images directory to show it.
 
     # scene bg room
@@ -20,9 +20,9 @@ label start:
     # replace it by adding a file named "emo guy place holder.png" to the images
     # directory.
 
-
-    show emo guy place holder 
+ 
     scene bg place holder bedroom
+    show emo guy place holder
     
     # These display lines of dialogue.
 
