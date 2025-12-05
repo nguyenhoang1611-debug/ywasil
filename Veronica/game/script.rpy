@@ -4,7 +4,7 @@
 # name of the character.
 
 define e = Character("emo guy place holder")
-define a = character("narrator")
+define a = Character("narrator")
 
 # The game starts here.
 
