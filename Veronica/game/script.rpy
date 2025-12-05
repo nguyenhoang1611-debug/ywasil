@@ -4,7 +4,7 @@
 # name of the character.
 
 define e = Character("emo guy place holder")
-
+define a = character("narrator")
 
 # The game starts here.
 
@@ -27,6 +27,7 @@ label start:
     # These display lines of dialogue.
 
     e "i hate you momma"
+    a 'said the emo emo guy place holder'
 
     
     
