@@ -1619,5 +1619,3 @@ style slider_vbox:
 style slider_slider:
     variant "small"
     xsize 900
-
-define gui.text_font = "1942.tff"
