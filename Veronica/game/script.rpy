@@ -4,7 +4,7 @@
 # name of the character.
 
 define e = Character("emo guy place holder")
-define a = Character("narrator")
+define n = Character("narrator")
 define m = Character("Mother")
 
 # The game starts here.
@@ -28,8 +28,8 @@ label start:
     # These display lines of dialogue.
 
     e "i hate you momma"
-    a 'said the emo emo guy place holder'
-    a "all the children sing"
+    n 'said the emo emo guy place holder'
+    n "all the children sing"
     e "hey bungolow bill what did you kill bungolow bill"
     m "get down here right now "
     
