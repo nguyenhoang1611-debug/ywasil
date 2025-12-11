@@ -1621,4 +1621,3 @@ style slider_slider:
     xsize 900
 
 
-define gui.text_font = "fonts/Morvanh-Regular.otf"
