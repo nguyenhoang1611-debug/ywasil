@@ -50,13 +50,20 @@ label start:
     m "why the heck you not respond to me!!!!!!!!!!!!!"
     show mother at slightright with moveinright
     show emo guy place holder at slightleft with moveinleft
-<<<<<<< HEAD
     e "MOM WHY YOU ALWAYS SO HATRED AGAISNT ME?!"
     n "thing is about to took........a weird route....."
+    m "your style look digusting!!!!!!!!!"
+    e "SHUT UP!!!!!!!"
+    m "YOU ARE OFFICALLY GROUNDED THIS WHOLE WEEK"
+    e "YOU NOT LOVE ME!!!!!!!!!!!!"
+    n "the mom walk out of his door.....angry"
+    hide mother
+    m "......." with hpunch # Shakes the screen for the next action
+    show emo guy place holder
+    e "that it......"
+    e "i'm gonna get out of this hell holes"
 
-=======
-    e "MOM WHY YOU ALWAYS SO HATFUL AGAINST ME?!"
->>>>>>> dd0a256be48a87c994e8db1658fdfca8299b5edc
+
     # This ends the game.
    
 
