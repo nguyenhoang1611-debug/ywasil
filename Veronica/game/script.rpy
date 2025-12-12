@@ -50,7 +50,7 @@ label start:
     m "why the heck you not respond to me!!!!!!!!!!!!!"
     show mother at slightright with moveinright
     show emo guy place holder at slightleft with moveinleft
-    e "MOM WHY YOU ALWAYS SO HATRED AGAISNT ME?!"
+    e "MOM WHY YOU ALWAYS SO HATFUL AGAINST ME?!"
     # This ends the game.
    
 
