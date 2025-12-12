@@ -41,7 +41,7 @@ label start:
     m "why the heck you not respond to me!!!!!!!!!!!!!"
     show mother at right with moveinright
     show emo guy place holder at left with moveinleft
-    
+    e "MOM WHY YOU ALWAYS SO HATRED AGAISNT ME?!"
     # This ends the game.
    
 
