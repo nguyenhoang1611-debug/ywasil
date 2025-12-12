@@ -55,6 +55,17 @@ label start:
     show emo guy place holder at slightleft with moveinleft
     e "MOM WHY YOU ALWAYS SO HATRED AGAISNT ME?!"
     n "thing is about to took........a weird route....."
+    m "your style look digusting!!!!!!!!!"
+    e "SHUT UP!!!!!!!"
+    m "YOU ARE OFFICALLY GROUNDED THIS WHOLE WEEK"
+    e "YOU NOT LOVE ME!!!!!!!!!!!!"
+    n "the mom walk out of his door.....angry"
+    hide mother
+    m "......." with hpunch # Shakes the screen for the next action
+    show emo guy place holder
+    e "that it......"
+    e "i'm gonna get out of this hell holes"
+
 
     # This ends the game.
    
