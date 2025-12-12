@@ -45,14 +45,13 @@ label start:
     n "no respond from the emo"
     n "suddenly......the mom knock the door" with hpunch # Shakes the screen for the next action
     n "actually.....she just crash the freaking door"
+    hide emo guy place holder
     show mother at center with vpunch # Shakes the screen for the next action
     
-    hide emo guy place holder
-
     m "why the heck you not respond to me!!!!!!!!!!!!!"
-
-    show emo guy place holder 
+  
     show mother at slightright with moveinright
+    show emo guy place holder 
     show emo guy place holder at slightleft with moveinleft
     e "MOM WHY YOU ALWAYS SO HATRED AGAISNT ME?!"
     n "thing is about to took........a weird route....."
