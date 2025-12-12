@@ -32,8 +32,10 @@ label start:
     n "all the children sing"
     e "hey bungolow bill what did you kill bungolow bill"
     m "get down here right now "
-    
-    
+    e "........."
+    n "no respond from the emo"
+    n "suddenly......the mom knock the door" with hpunch # Shakes the screen for the next action
+    n "actually.....she just crash the freaking door" with hpunch # Shakes the screen for the next action
 
     # This ends the game.
 
