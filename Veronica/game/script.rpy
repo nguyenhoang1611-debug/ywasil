@@ -51,6 +51,8 @@ label start:
     show mother at slightright with moveinright
     show emo guy place holder at slightleft with moveinleft
     e "MOM WHY YOU ALWAYS SO HATRED AGAISNT ME?!"
+    n "thing is about to took........a weird route....."
+
     # This ends the game.
    
 
