@@ -48,14 +48,9 @@ label start:
     show mother at center with vpunch # Shakes the screen for the next action
     
     m "why the heck you not respond to me!!!!!!!!!!!!!"
-<<<<<<< HEAD
     show mother at right with moveinright
     show emo guy place holder at left with moveinleft
     e "MOM WHY YOU ALWAYS SO HATRED AGAISNT ME?!"
-=======
-  
-   
->>>>>>> 92a1b09a50fc3669449035d688de201e25c525ec
     # This ends the game.
    
 
