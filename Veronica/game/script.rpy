@@ -10,6 +10,11 @@ define m = Character("Mother")
 transform slightleft:
     xalign 0.25
     yalign 1.0
+
+transform slightright:
+    xalign 0.75
+    yalign 1.0
+ 
  
 # The game starts here.
 
@@ -43,14 +48,8 @@ label start:
     show mother at center with vpunch # Shakes the screen for the next action
     
     m "why the heck you not respond to me!!!!!!!!!!!!!"
-<<<<<<< HEAD
   
    
-=======
-    show mother at right with moveinright
-    show emo guy place holder at left with moveinleft
-    
->>>>>>> d1f3dc12f5bb1d7d29cd11e5bdb1607b30c7484f
     # This ends the game.
    
 
