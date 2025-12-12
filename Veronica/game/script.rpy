@@ -41,11 +41,17 @@ label start:
     n "suddenly......the mom knock the door" with hpunch # Shakes the screen for the next action
     n "actually.....she just crash the freaking door"
     show mother at center with vpunch # Shakes the screen for the next action
-    show mother
+    
     m "why the heck you not respond to me!!!!!!!!!!!!!"
+<<<<<<< HEAD
   
    
+=======
+    show mother at right with moveinright
+    show emo guy place holder at left with moveinleft
+    
+>>>>>>> d1f3dc12f5bb1d7d29cd11e5bdb1607b30c7484f
     # This ends the game.
-
+   
 
     return
