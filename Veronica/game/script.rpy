@@ -35,8 +35,10 @@ label start:
     e "........."
     n "no respond from the emo"
     n "suddenly......the mom knock the door" with hpunch # Shakes the screen for the next action
-    n "actually.....she just crash the freaking door" with hpunch # Shakes the screen for the next action
-
+    n "actually.....she just crash the freaking door"
+    show mother at center with vpunch # Shakes the screen for the next action
+    show mother
+    m "why the heck you not respond to me!!!!!!!!!!!!!"
     # This ends the game.
 
 
