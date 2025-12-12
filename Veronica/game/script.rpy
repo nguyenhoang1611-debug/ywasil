@@ -7,6 +7,10 @@ define e = Character("emo guy place holder")
 define n = Character("narrator")
 define m = Character("Mother")
 
+transform slightleft:
+    xalign 0.25
+    yalign 1.0
+ 
 # The game starts here.
 
 label start:
@@ -39,6 +43,8 @@ label start:
     show mother at center with vpunch # Shakes the screen for the next action
     show mother
     m "why the heck you not respond to me!!!!!!!!!!!!!"
+  
+   
     # This ends the game.
 
 
