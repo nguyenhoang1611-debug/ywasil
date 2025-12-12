@@ -47,16 +47,16 @@ label start:
     n "actually.....she just crash the freaking door"
     show mother at center with vpunch # Shakes the screen for the next action
     
+    hide emo guy place holder
+
     m "why the heck you not respond to me!!!!!!!!!!!!!"
+
+    show emo guy place holder 
     show mother at slightright with moveinright
     show emo guy place holder at slightleft with moveinleft
-<<<<<<< HEAD
     e "MOM WHY YOU ALWAYS SO HATRED AGAISNT ME?!"
     n "thing is about to took........a weird route....."
 
-=======
-    e "MOM WHY YOU ALWAYS SO HATFUL AGAINST ME?!"
->>>>>>> dd0a256be48a87c994e8db1658fdfca8299b5edc
     # This ends the game.
    
 
